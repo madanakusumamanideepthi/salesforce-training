@@ -1,1 +1,53 @@
+## 1. What problem does Salesforce solve?
 
+Salesforce helps businesses manage customer data, sales, support services, and business operations in one platform.
+
+It improves productivity and reduces manual work through automation.
+
+---
+
+## 2. What is CRM?
+
+CRM stands for Customer Relationship Management.
+
+CRM helps businesses manage customer interactions, communication, and data efficiently.
+
+---
+
+## 3. What is an Object in Salesforce?
+
+Objects are database tables used to store information in Salesforce.
+
+### Example:
+Account Object
+
+Other examples:
+- Contact
+- Lead
+- Opportunity
+
+---
+
+## 4. Difference between Salesforce Admin and Developer
+
+### Salesforce Admin
+- Manages Salesforce settings
+- Creates reports and dashboards
+- Handles users and permissions
+
+### Salesforce Developer
+- Builds custom applications
+- Writes Apex code
+- Develops automation and integrations
+
+---
+
+## 5. Real-world Application
+
+### College Admission Management System
+
+A College Admission Management System can be built using Salesforce to:
+- Manage student records
+- Track admissions
+- Store application details
+- Improve communication
