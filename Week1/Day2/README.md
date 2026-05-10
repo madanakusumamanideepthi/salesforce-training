@@ -20,15 +20,9 @@ By the end of today, I learned:
 
 ## ✅ Salesforce Platform Basics
 
----
-
 ## ✅ Apps, Objects, and Tabs
 
----
-
 ## ✅ Salesforce Architecture
-
----
 
 ## ✅ Development Basics
 
